@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Love mo ba ko? 🥺👉🏻👈🏻",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "opo hehe",                                             // Text for "Yes" button
+            noBtn: "ulul",                                               // Text for "No" button
             secretAnswer: "Super duper love hehe! ❤️"           // Secret hover message
         },
         second: {
@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            yesBtn: "may choice pa ba ko?",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "oh talaga lang ha?? 😡",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ay dapat lang! 🙄",  // Shows when they go past 5000%
+        high: "oh talaga ba? 🥹",              // Shows when they go past 1000%
+        normal: "grabe di mo ba ko love 🙁"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "hehehe sobrang swerte ko sayo mwa! 😙",
-        message: "kiss mo nga mo and wag ka na mag tampurorot🙄!",
+        message: "kiss mo nga ko and wag ka na mag tampurorot🙄!",
         emojis: "😙😗😘💋🫶🏻❤️"  // These will bounce around
     },
 
